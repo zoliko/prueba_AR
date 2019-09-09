@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises">mexico,usa</string-array>
+    <string-array name="Paises">Mexico,USA</string-array>
+</resources>
